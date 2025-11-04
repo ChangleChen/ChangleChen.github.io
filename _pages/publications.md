@@ -26,19 +26,19 @@ nav_order: 3
 
 <div class="publications">
 
-<h2>PhD Thesis</h2>
-{% bibliography -f papers -q @phdthesis %}
+<!-- <h2>PhD Thesis</h2> 
+# {% bibliography -f papers -q @phdthesis %}  -->
 
 <h2>Research Articles</h2>
 {% bibliography -f papers -q @article %}
 
-<h2>Under Review</h2>
+<!--  <h2>Under Review</h2>
 {% bibliography -f papers -q @unpublished %}
 
 <h2>Conference Proceedings</h2>
 {% bibliography -f papers -q @inproceedings %}
 
 <h2>Presentations</h2>
-{% bibliography -f papers -q @misc %}
+{% bibliography -f papers -q @misc %}   -->
 
 </div>
