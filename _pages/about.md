@@ -8,7 +8,7 @@ profile:
   image: me_photo_ai2.png
   image_circular: false
   more_info: >
-    <p> Researcher and Learner </p>
+    <p> Lifelong Researcher and Learner </p>
 selected_papers: false
 social: false
 announcements:
