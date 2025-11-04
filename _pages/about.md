@@ -1,34 +1,51 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: me_photo.png
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
+    <p> Researcher and Learner </p>
+selected_papers: false
+social: false
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
+  enabled: false
+  scrollable: true
+  limit: 5
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!-- Hidden h1 for SEO -->
+<h1 style="display:none;">Chang-Le (Charles) Chen – Researcher in Neuroscience, Medicine, Computation, and AI</h1>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+#### Scientist + Engineer + AI enthusiast
+
+
+Chang-Le (Charles) is a doctoral researcher in **Bioengineering** at the University of Pittsburgh, specializing in **AI/ML**, **neuroimaging**, and **clinical neuroscience**. With experience as a research engineer at National Taiwan University College of Medicine and University of Pittsburgh Medical Center, he integrates physics-based modeling, neuroimaging, and machine learning to uncover the mechanisms of **brain aging**, **neurological diseases**, and **psychiatric disorders**. His work focuses on developing scalable algorithms and quantitative biomarkers that bridge research and clinical practice. Driven to transform scientific innovation into real-world impact, Charles develops next-generation neuroimaging technologies and foundation AI systems to improve diagnosis, treatment, and patient outcomes across the global healthcare and life sciences landscape.
+
+#### Recent work:
+
+My research focuses on, but is not limited to, the following topics:
+
+- Developing statistical learning and harmonization frameworks to integrate neuroimaging and multi-site biomedical data, reducing site/pipeline bias and enabling large-scale analyses.
+
+- Creating and validating neuroimaging-derived markers (structural, fluid-dynamics, functional) to detect aberrant brain physiology and pathology, especially in aging and neurological disorders.
+
+- Building large-scale multimodal prediction paradigms and normative models using deep representation learning (integrating imaging, clinical, demographic, and AI/ML features) for early detection, prognosis, and individualized assessment across brain aging and disease.
+
+- Designing scalable deep-learning pipelines for multi-site, multi-modal biomedical datasets (neuroimaging, genetics, clinical) that emphasize reproducible prototypes and translational readiness.
+
+- Bridging interdisciplinary domains (mathematics, physics, neuroscience, AI) to develop foundation AI systems and agentic models in healthcare/life-sciences settings, advancing from algorithmic innovation to clinical workflow integration.
+
+
+---
+
+This website presents Charles's profile, publications, and research interests.
+Feel free to reach out at chc348 (at) pitt (dot) edu.
