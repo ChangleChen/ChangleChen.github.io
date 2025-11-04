@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 profile:
   align: right
-  image: me_photo.png
+  image: me_photo_ai2.png
   image_circular: false
   more_info: >
     <p> Researcher and Learner </p>
