@@ -8,7 +8,7 @@ profile:
   image: me_photo_ai2.png
   image_circular: false
   more_info: >
-    <p style="font-size: 0.8rem; text-align: center;"> Lifelong Researcher and Learner </p>
+    <p style="font-size: 0.6rem; text-align: center;"> Email: chc348(at)pitt(dot)edu </p>
 selected_papers: false
 social: false
 announcements:
@@ -48,4 +48,4 @@ My research focuses on, but is not limited to, the following topics:
 ---
 
 This website presents Charles's profile, publications, and research interests.
-Feel free to reach out at chc348 (at) pitt (dot) edu.
+For more details, feel free to reach out at chc348(at)pitt(dot)edu.
