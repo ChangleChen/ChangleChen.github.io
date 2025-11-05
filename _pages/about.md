@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 profile:
   align: right
-  image: me_photo_ai2.png
+  image: me_photo_2.png
   image_circular: false
   more_info: >
     <p style="font-size: 1rem; text-align: center;"> Email: chc348(at)pitt(dot)edu </p>
