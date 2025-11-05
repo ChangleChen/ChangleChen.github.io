@@ -8,7 +8,7 @@ profile:
   image: me_photo_ai2.png
   image_circular: false
   more_info: >
-    <p style="font-size: 0.6rem; text-align: center;"> Email: chc348(at)pitt(dot)edu </p>
+    <p style="font-size: 1rem; text-align: center;"> Email: chc348(at)pitt(dot)edu </p>
 selected_papers: false
 social: false
 announcements:
