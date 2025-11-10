@@ -78,23 +78,23 @@
       items:
         - Neuroimaging Analysis (including voxel-based and surface-based morphometries for structural MRI data, tractography and tract-specific analysis for diffusion MRI data, fMRI connectivity analysis, etc.)
         - Clinical Experiment Design and Execution (executed more than eight research projects)
-    - title: Data Science
-      items:
-        - Medical Image Analysis (tumor segmentation, diffusion MRI image denoising, head motion correction, etc.)
-        - Machine Learning (supervised classification and regression, unsupervised methods, optimization, etc.)
-        - Data Visualization (neuroimaging visualization, statistical visualization, and customized digital artworks)
     - title: Deep Learning
       items:
         - Computer Vision (CNN, GAN, VAE, ViT, self-supervised learning, etc.)
         - Natural Language Processing (Embedding, attention-based model, LLM, etc.)
         - Reinforcement Learning (deep q learning, etc.)
         - Time Series Analysis (RNN, LSTM, transformer, etc.)
+    - title: Data Science
+      items:
+        - Medical Image Analysis (tumor segmentation, diffusion MRI image denoising, head motion correction, etc.)
+        - Machine Learning (supervised classification and regression, unsupervised methods, optimization, etc.)
+        - Data Visualization (neuroimaging visualization, statistical visualization, and customized digital artworks)
     - title: Statistics
       items:
         - Multivariate Analysis (principal component analysis, canonical correlation, multivariate regression, etc.)
         - Structural Equation Modeling (factor analysis, path analysis, and model evaluation)
         - Survival Analysis (Kaplan-Meier method and Cox proportional hazard regression)
-        - Longitudinal Analysis (linear mixed effect model, latent growth curve modeling etc.)
+        - Longitudinal Analysis (linear mixed effect model, latent growth curve modeling, etc.)
         - Bayesian Statistics (empirical Bayes estimation, etc.)
     - title: Computer Programming
       items:
