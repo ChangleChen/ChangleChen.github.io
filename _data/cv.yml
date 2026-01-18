@@ -70,6 +70,29 @@
       description:
         - 11 months of active duty enlisted military service in the Army branch of the Taiwan Armed Forces.
 
+- title: Awards
+  type: time_table
+  contents:
+    - title: Magna Cum Laude Award
+      institution: International Society for Magnetic Resonance in Medicine (ISMRM)
+      year: "2022"
+      description:
+        - Virtual presentation at 2022 Joint Annual Meeting ISMRM-ESMRMB (London, UK)
+        - Topic- “Microstructural Deviation in Parkinson’s Disease and Multiple System Atrophy Detected by Spatial Normative Models”
+    - title: Magna Cum Laude Award
+      institution: International Society for Magnetic Resonance in Medicine (ISMRM)
+      year: "2020"
+      description:
+        - Oral presentation at 2020 ISMRM Annual Meeting (Virtual meeting)
+        - Topic- “Multiple Brain Age Metrics Reveal Premature Brain Aging Network and Association with Clinical Factors in Schizophrenia”
+        - This study was also awarded the Best Paper Award by the ISMRM Psychiatric MR Spectroscopy & Imaging Study Group.
+    - title: Summa Cum Laude Award
+      institution: International Society for Magnetic Resonance in Medicine (ISMRM)
+      year: "2019"
+      description:
+        - Oral presentation at 2019 ISMRM Annual Meeting (Canada)
+        - Topic- “Advanced Brain Aging in Patients with Right Mesial Temporal Lobe Epilepsy- A Machine Learning Approach Based on White Matter Tract Integrity”
+
 
 - title: Technical Skills
   type: nested_list
