@@ -15,7 +15,7 @@
   contents:
     - title: PhD in Bioengineering
       institution: University of Pittsburgh, PA, USA
-      year: "2021–present"
+      year: "2021–2026"
       description:
         - Developing harmonization methods for neuroimaging data to ensure quality consistency across multi-site datasets.
         - Developing diffusion-derived indices to reflect cerebral fluid dynamics as a marker for dementia.
@@ -42,9 +42,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral Researcher
+      institution: University of California, Berkeley, CA, USA
+      year: "2026–Present"
+      description:
     - title: Graduate Researcher
       institution: University of Pittsburgh, PA, USA
-      year: "2021–present"
+      year: "2021–2026"
       description:
         - Developing imaging-derived measures for reflecting biological processes.
         - Conducting neuroimaging research for investigating multiple neurodegenerative diseases and psychiatric disorders
